@@ -29,7 +29,7 @@
 Please send an email to vvaradarajan@cs.stonybrook.edu to get access the social media treebank and pretrained models.
 
 # Citation
-If you are using oour data oor models, please cite our work:
+If you are using our data or models, please cite our work:
 ```
 @inproceedings{son-etal-2022-discourse,
     title = "Discourse Relation Embeddings: Representing the Relations between Discourse Segments in Social Media",
